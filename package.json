@@ -21,9 +21,11 @@
     "@angular/router": "~8.2.14",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
+    "webpack": "^4.43.0",
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
+    "worker-loader": "^2.0.0",
     "@angular-devkit/build-angular": "~0.803.23",
     "@angular/cli": "~8.3.23",
     "@angular/compiler-cli": "~8.2.14",
